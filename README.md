@@ -1,2 +1,2 @@
 # ATMachine
-A fully console based mini atm program written in Java
+A fully console based mini ATM program written in Java
