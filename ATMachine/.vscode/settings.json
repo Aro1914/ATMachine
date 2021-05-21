@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "java.saveActions.organizeImports": true,
+    "files.autoSave": "afterDelay"
+}
