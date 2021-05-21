@@ -21,7 +21,7 @@ class Withdraw {
                     if (amt >= 500) {
                         CheckBalance.setBal(CheckBalance.getBal(), amt);
                         withdrawn += amt;
-                        System.out.println("TRANSACTION SUCCESSFUL");
+                        System.out.println("TRANSACTION SUCCESSFUL!");
                         System.out.println("YOUR REMAINING BALANCE IS N" + CheckBalance.getBal());
                     } else {
                         System.out.println("SORRY THE MINIMUM WITHDRAWAL AMOUNT IS N500");

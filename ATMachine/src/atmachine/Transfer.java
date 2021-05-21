@@ -72,10 +72,12 @@ class Transfer {
     }
 
     public static void trans(String name) {
+		Scanner response = new Scanner(System.in);
         String reply;
         System.out.println(
                 "DO YOU WANT TO TRANSFER N" + tempAmt + " TO " + name + "?\n1. YES\n2. NO"
         );
+		System.out.print("");
         reply = response.nextLine();
         switch (reply) {
             case "1":
