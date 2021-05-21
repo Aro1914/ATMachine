@@ -22,7 +22,7 @@ public class Admin {
                     + "\n2. "
                     + Transfer.acctName[0]
                     + "\t"
-                    + "N"
+                    + " N"
                     + Transfer.acctNum[0]
                     + "\n3. "
                     + Transfer.acctName[1]
